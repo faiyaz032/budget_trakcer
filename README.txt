@@ -4,4 +4,4 @@ How to use this app locally:
 1. Run "npm install" command.
 2. Run "npm start" command.
 
-This app is also deployed on 
+This app is also deployed on heroku, URL is : https://budget-tracker-hassan.herokuapp.com/
